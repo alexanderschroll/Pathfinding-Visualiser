@@ -7,10 +7,10 @@ Welcome to Pathfinding Visualiser! I built this web-based application because I 
 This application will support the following algorithms:
 
 - [x] Dijkstra's Algorithm
-- [ ] Greedy Best-first Search
-- [ ] Swarm Algorithm
-- [ ] Convergent Swarm Algorithm
-- [ ] Bidirectional Swarm Algorithm
-- [ ] Breath-first Search
-- [ ] Depth-first Search 
+- [x] Greedy Best-first Search
+- [x] Swarm Algorithm
+- [x] Convergent Swarm Algorithm
+- [x] Bidirectional Swarm Algorithm
+- [x] Breath-first Search
+- [x] Depth-first Search 
 
