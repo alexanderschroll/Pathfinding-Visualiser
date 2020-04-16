@@ -1,4 +1,4 @@
-# Pathfinding-Visualiser
+# 🚀 Pathfinding-Visualiser
 
 Welcome to Pathfinding Visualiser! I built this web-based application because I was always fascinated by pathfinding algorithms, and always wanted to visualise them in action.
 
