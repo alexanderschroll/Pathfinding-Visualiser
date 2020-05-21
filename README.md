@@ -12,3 +12,8 @@ This application supports the following algorithms:
 **Dijkstra's Algorithm** (weighted): The father of pathfinding algorithms; guarantees the shortest path.
 
 **A-Star (A\*) Algorithm** (weighted): Arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm.
+
+## Todo
+
+- [ ] Implement more Algorithms
+- [ ] Implement Mazes
