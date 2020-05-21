@@ -4,13 +4,16 @@ Welcome to Pathfinding Visualiser! I built this web-based application because I 
 
 ## Meet the Algorithms
 
-This application will support the following algorithms:
+This application supports the following algorithms:
 
 - [x] Dijkstra's Algorithm
-- [x] Greedy Best-first Search
-- [x] Swarm Algorithm
-- [x] Convergent Swarm Algorithm
-- [x] Bidirectional Swarm Algorithm
-- [x] Breath-first Search
-- [x] Depth-first Search 
+- [x] A-Star (A*) Algorithm
 
+**Dijkstra's Algorithm** (weighted): The father of pathfinding algorithms; guarantees the shortest path.
+
+**A-Star (A\*) Algorithm** (weighted): Arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm.
+
+## Todo
+
+- [ ] Implement more Algorithms
+- [ ] Implement Mazes
