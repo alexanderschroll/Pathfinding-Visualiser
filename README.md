@@ -7,8 +7,8 @@ Welcome to Pathfinding Visualiser! I built this web-based application because I 
 This application supports the following algorithms:
 
 - [x] Dijkstra's Algorithm
-- [x] A Search*
+- [x] A-Star (A*) Algorithm
 
 **Dijkstra's Algorithm** (weighted): The father of pathfinding algorithms; guarantees the shortest path.
 
-**A-Star (A*)** (weighted): Arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm.
+**A-Star (A\*)** (weighted): Arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm.
