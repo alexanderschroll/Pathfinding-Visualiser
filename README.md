@@ -1,6 +1,7 @@
-# 🚀 Pathfinding-Visualiser
+# 🚀 Pathfinding Visualiser
 
-Welcome to Pathfinding Visualiser! I built this web-based application because I was always fascinated by pathfinding algorithms, and always wanted to visualise them in action.
+Welcome to Pathfinding Visualiser! I built this web-based application because I was always fascinated by pathfinding algorithms, and always wanted to visualise them in action.\
+You can access it here: https://alexanderschroll.github.io/Pathfinding-Visualiser
 
 ## Meet the Algorithms
 
