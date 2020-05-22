@@ -2,7 +2,7 @@
   "name": "pathfindingvisualiser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexanderschroll.github.io/Pathfinding-Visualiser/",
+  "homepage": "https://alexanderschroll.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
